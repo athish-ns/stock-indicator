@@ -1,1 +1,1 @@
-# stock-indicator
+# An advanced stock indicator using python

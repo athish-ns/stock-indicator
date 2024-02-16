@@ -1,0 +1,6 @@
+pythonnet==3.0.1
+typing-extensions>=4.0.0
+pandas>=1.0.0
+matplotlib>=3.0.0
+yfinance>=0.1.64
+nsetools>=1.0.11
